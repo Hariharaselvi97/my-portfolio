@@ -1,0 +1,29 @@
+ .exp h1{
+    padding: 0px 30px;
+    font-size: 60px;
+    font-weight: 600px;
+    margin-top: 180px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.exp-para{
+    border: 2px solid yellow;
+    width: 560px;
+    height: 250px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+.exp-para h2{
+    
+    color: white;
+}
+.exp-para h6{
+    
+    color: white;
+}
+.exp .exp-para p{
+    list-style-type: circle;
+    color: white;
+}
