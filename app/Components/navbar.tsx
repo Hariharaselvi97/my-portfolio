@@ -1,8 +1,10 @@
+'use client';
 import React from 'react'
-import './navbar.css';
 import {Container} from 'react-bootstrap';
 import {Nav} from 'react-bootstrap';
 import {Navbar} from 'react-bootstrap';
+import './navbar.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const navbar = () => {
   return (

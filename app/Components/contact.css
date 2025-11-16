@@ -1,0 +1,164 @@
+.con h1{
+    color: white;
+    margin-top: 140px;
+    font-size: 60px;
+    font-weight: 600px;
+    padding: 0px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.con h4{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    padding: 120px 200px;
+}
+.info ul{
+    margin-top: -70px;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+   
+    
+}
+.info ul li{
+    display: flex;
+  justify-content:center;
+    align-items: center;
+}
+.info ul li{
+ 
+    list-style-type: none;
+    color: white;
+    margin-left: -70px;
+    padding: 5px;
+    font-size: 20px;
+   
+}
+.info ul li i{
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+.contact1{
+    line-height: 50px;
+   
+}
+.contact2{
+    line-height: 50px;
+    margin-left: -106px;
+    
+}
+.contact3 {
+    line-height: 50px;
+    margin-left: -112px;
+}
+.contact4{
+    line-height: 50px;
+    margin-left: -62px;
+}
+.contact5{
+    line-height: 50px;
+    margin-left: -68px;
+}
+.detail{
+    color: white;
+    font-size: 32px;   
+}
+.scroll{
+    color: white;
+    font-size: 30px;
+}
+.scroll i{
+    color: white;
+}
+/* .form{
+    width: 390px;
+   
+}
+.sub1{
+    background-color: aqua;
+    color: white;
+    border: 1px solid yellow;
+ } */
+/* .talk input,textarea{
+    width: 390px;
+    border-radius: 10px;
+   
+}
+.talk input{
+    height: 40px;
+}
+.talk{
+    text-align: center;
+}
+.talk label{
+ 
+    padding: 0 30px;
+}  */ 
+ /* .talk{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    
+   
+}
+.talk input ,textarea{
+    width: 380px;
+    
+}
+.talk input ,label{
+   
+    border-radius: 5px;
+}
+.talk textarea{
+    
+    border-radius: 5px;
+}
+.talk button{
+    
+    border-radius: 12px;
+    padding: 5px 5px;
+    background-color: transparent;
+    color:white;
+    border: 1px solid yellow;
+    font-size: 17px;
+}  */
+
+
+.talk{
+    background-color: transparent;
+    border: 1px solid yellow;
+    width: 450px;
+    height:450px;
+    margin: 20vh auto 0 auto;
+    padding: 50px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+label{
+    display: block;
+    margin: 10px 0;
+    color: white;
+}
+input,textarea{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid grey;
+    box-sizing: border-box;
+    resize: none;
+}
+.butt{
+    margin: 20px;
+    width: 90%;
+    max-width: 200px;
+    background-color: transparent;
+    border: 1px solid yellow;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 10px;
+   
+} 

@@ -1,15 +1,23 @@
+import Navbar from './Components/navbar'
+import Homepage from './Components/homepage'
+import About from './Components/about'
+import Experience from './Components/experience'
+import Skill from './Components/skill'
+import Project from './Components/project'
+import Contact from './Components/contact'
 
-import Homepage from './homepage';
-import About from './about';
-import Experiencepage from './experiencepage';
 
 export default function Home() {
   return (
     <div>
+        <Navbar/>
       <Homepage/>
       <About/>
-      <Experiencepage/>
-     
+      <Experience/>
+      <Skill/>
+      <Project/>
+      <Contact/>
+    
     </div>
   )
 }

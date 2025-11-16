@@ -1,8 +1,10 @@
-import React from 'react' 
-import './experiencepage.css';
+'use client';
+import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Card} from 'react-bootstrap';
+import './experience.css'
 
-const experiencepage = () => {
+const experience = () => {
   return (
     <div className='exp ' id="experience" >
         <h1 data-aos="fade-right" data-aos-duration="1000" >Experience</h1><br/><br/><br/>
@@ -22,9 +24,7 @@ const experiencepage = () => {
 
   
     </div>
-  
- 
   )
 }
 
-export default experiencepage
+export default experience

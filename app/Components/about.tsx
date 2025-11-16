@@ -6,6 +6,7 @@ import {Col} from 'react-bootstrap';
 
 
 
+
 const about = () => {
   return (
   <div className='about1' id="about" >
