@@ -27,6 +27,9 @@ const skill = () => {
         <Col className='bor'>React Js
         <ProgressBar animated variant="warning" now={90}/>
         </Col>
+         <Col className='bor'>Next Js
+        <ProgressBar animated variant="warning" now={90}/>
+        </Col>
         <Col className='bor'>Node Js
         <ProgressBar animated variant="warning" now={90}/>
         </Col>

@@ -16,11 +16,11 @@ const about = () => {
         <div>
         <Container  className='details'>
       <Row>
-        <Col data-aos="fade-down" data-aos-duration="1000">I am a motivated Backend Developer with one year of experience in building and maintaining server-side applications.
-                   I specialize in creating efficient, reliable, and scalable backend solutions. Having completed a Full Stack Development course,
-                   I have a comprehensive understanding of both frontend and backend technologies, enhancing my ability to collaborate 
-                   effectively with cross-functional teams. I am passionate about problem-solving
-                   and quick to adapt to new technologies, making me a valuable asset in dynamic web development environments.</Col>
+        <Col data-aos="fade-down" data-aos-duration="1000">
+                  Hi,I’m a Junior Full Stack Developer experienced in React, Next.js, and the MERN stack. 
+                  I’ve completed professional training and an internship, working on real-world projects focused on performance, responsiveness, and clean code.
+                  I’m passionate about continuous learning, problem-solving, and writing efficient code. 
+                  I’m actively looking for a Junior Full Stack Developer role where I can apply my skills and grow professionally.</Col>
       </Row>
     </Container>
     </div>

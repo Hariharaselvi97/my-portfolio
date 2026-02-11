@@ -84,6 +84,15 @@ const project = () => {
 
 
  </div></Col>
+
+ <Col> 
+ <div className="container py-2 px-4" data-aos="zoom-in" data-aos-duration="1000">
+<Image src='/photo/project9.png' alt="Avatar" className="image" width={267} height={200} />
+ 
+ <div className="text1"> Music Concert website using Nextjs,Mongodb.</div>
+
+
+ </div></Col>
 </Row>
 
 </Container>

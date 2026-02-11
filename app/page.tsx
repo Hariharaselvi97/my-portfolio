@@ -10,7 +10,7 @@ import Contact from './Components/contact'
 export default function Home() {
   return (
     <div>
-        <Navbar/>
+      <Navbar/>
       <Homepage/>
       <About/>
       <Experience/>
